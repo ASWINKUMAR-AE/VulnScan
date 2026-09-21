@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Deliberately Vulnerable Test</title>
+</head>
+<body>
+    <h1>JavaScript Vulnerability Demo</h1>
+    <p>Open this file with VulnScan to trigger findings</p>
+
+    <script>
+        // BAD: eval on user-supplied input (Code Injection)
+        var userCode = location.hash.substring(1);
+        eval(userCode);
+
+        // BAD: document.write with dynamic input (XSS risk)
+        document.write("<p>User says: " + userCode + "</p>");
+
+        // BAD: innerHTML assignment from untrusted data
+        document.getElementById("output").innerHTML = userCode;
+    </script>
+
+    <div id="output"></div>
+</body>
+</html>

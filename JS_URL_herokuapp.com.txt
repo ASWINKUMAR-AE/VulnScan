@@ -1,0 +1,2 @@
+{"id1,JS#1": {"url": "https://juice-shop.herokuapp.com/", "xpath": "/html/head/script"}}
+{"id1,JS#1": {"url": "https://juice-shop.herokuapp.com/", "xpath": "/html/head/script"}}

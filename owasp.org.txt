@@ -1,0 +1,14 @@
+https://owasp.org
+https://owasp.org/about
+https://owasp.org/chapters
+https://owasp.org/contact
+https://owasp.org/donate?reponame=www-project-webgoat&title=OWASP+WebGoat
+https://owasp.org/events
+https://owasp.org/membership
+https://owasp.org/projects
+https://owasp.org/sitemap
+https://owasp.org/slack/invite
+https://owasp.org/store
+https://owasp.org/supporters
+https://owasp.org/www-policy/operational/privacy
+https://owasp.org/www-project-webgoat/

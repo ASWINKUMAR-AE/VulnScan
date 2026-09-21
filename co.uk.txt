@@ -1,0 +1,6 @@
+https://www.dvwa.co.uk
+https://www.dvwa.co.uk/about-us
+https://www.dvwa.co.uk/category-sitemap.xml
+https://www.dvwa.co.uk/contact
+https://www.dvwa.co.uk/en-gb
+https://www.dvwa.co.uk/page-sitemap.xml

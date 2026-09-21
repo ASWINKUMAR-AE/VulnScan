@@ -1,0 +1,22 @@
+{"id1,JS#1": {"url": "https://owasp.org", "xpath": "/html/head/meta/meta/script"}}
+{"id1,JS#2": {"url": "https://owasp.org", "xpath": "/html/head/meta/meta/script"}}
+{"id1,JS#3": {"url": "https://owasp.org", "xpath": "/html/body/header/script"}}
+{"id1,JS#4": {"url": "https://owasp.org", "xpath": "/html/body/header/script"}}
+{"id1,JS#5": {"url": "https://owasp.org", "xpath": "/html/body/header/script"}}
+{"id1,JS#6": {"url": "https://owasp.org", "xpath": "/html/body/main/div/link/link/div/script"}}
+{"id1,JS#7": {"url": "https://owasp.org", "xpath": "/html/body/main/div/link/link/div/script"}}
+{"id1,JS#8": {"url": "https://owasp.org", "xpath": "/html/body/footer/section/script"}}
+{"id2,JS#1": {"url": "https://owasp.org/about", "duplication": "(id1,JS#1)", "xpath": "/html/head/meta/meta/script"}}
+{"id2,JS#2": {"url": "https://owasp.org/about", "xpath": "/html/head/meta/meta/script"}}
+{"id2,JS#3": {"url": "https://owasp.org/about", "duplication": "(id1,JS#3)", "xpath": "/html/body/header/script"}}
+{"id2,JS#4": {"url": "https://owasp.org/about", "duplication": "(id1,JS#4)", "xpath": "/html/body/header/script"}}
+{"id2,JS#5": {"url": "https://owasp.org/about", "duplication": "(id1,JS#5)", "xpath": "/html/body/header/script"}}
+{"id2,JS#6": {"url": "https://owasp.org/about", "xpath": "/html/body/main/div/div/script"}}
+{"id2,JS#7": {"url": "https://owasp.org/about", "xpath": "/html/body/main/div/div/script"}}
+{"id2,JS#8": {"url": "https://owasp.org/about", "duplication": "(id1,JS#8)", "xpath": "/html/body/footer/section/script"}}
+{"id3,JS#1": {"url": "https://owasp.org/chapters", "duplication": "(id1,JS#1)", "xpath": "/html/head/meta/meta/script"}}
+{"id3,JS#2": {"url": "https://owasp.org/chapters", "xpath": "/html/head/meta/meta/script"}}
+{"id3,JS#3": {"url": "https://owasp.org/chapters", "duplication": "(id1,JS#3)", "xpath": "/html/body/header/script"}}
+{"id3,JS#4": {"url": "https://owasp.org/chapters", "duplication": "(id1,JS#4)", "xpath": "/html/body/header/script"}}
+{"id3,JS#5": {"url": "https://owasp.org/chapters", "duplication": "(id1,JS#5)", "xpath": "/html/body/header/script"}}
+{"id3,JS#6": {"url": "https://owasp.org/chapters", "xpath": "/html/body/main/div/div/section/script"}}

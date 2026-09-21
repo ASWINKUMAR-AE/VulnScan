@@ -1,0 +1,24 @@
+{
+"id": "(id1,JS#10)",
+"result": "Vulnerable",
+"type": "XSS",
+"severity": "HIGH",
+"explain": "User input is inserted into innerHTML without sanitization, allowing potential XSS via crafted input.",
+"remediation": "Sanitize user input before inserting into innerHTML or use textContent instead."
+}
+{
+"id": "(id1,JS#10)",
+"result": "Vulnerable",
+"type": "InsecureTransport",
+"severity": "CRITICAL",
+"explain": "Sensitive API key is sent over HTTP to openrouter.ai, exposing it to interception.",
+"remediation": "Use HTTPS for all API requests and avoid exposing API keys in client-side code."
+}
+{
+"id": "(id1,JS#10)",
+"result": "Vulnerable",
+"type": "InsecureStorage",
+"severity": "CRITICAL",
+"explain": "Hardcoded API key in client-side JavaScript exposes it to anyone viewing the source.",
+"remediation": "Move API key to a secure server-side environment and proxy requests through backend."
+}

@@ -1,0 +1,9 @@
+{"id": "(id1,JS#1)", "url": "http://testphp.vulnweb.com", "xpath": "[document]/html/head/script"}
+{"id": "(id2,JS#1)", "url": "http://testphp.vulnweb.com/AJAX/index.php", "xpath": "[document]/html/head/script"}
+{"id": "id4,JS#1", "url": "http://testphp.vulnweb.com/artists.php", "xpath": "[document]/html/head/script", "duplication": "id1,JS#1"}
+{"id": "id5,JS#1", "url": "http://testphp.vulnweb.com/cart.php", "xpath": "[document]/html/head/script", "duplication": "id1,JS#1"}
+{"id": "id6,JS#1", "url": "http://testphp.vulnweb.com/categories.php", "xpath": "[document]/html/head/script", "duplication": "id1,JS#1"}
+{"id": "id7,JS#1", "url": "http://testphp.vulnweb.com/disclaimer.php", "xpath": "[document]/html/head/script", "duplication": "id1,JS#1"}
+{"id": "id8,JS#1", "url": "http://testphp.vulnweb.com/guestbook.php", "xpath": "[document]/html/head/script", "duplication": "id1,JS#1"}
+{"id": "id10,JS#1", "url": "http://testphp.vulnweb.com/index.php", "xpath": "[document]/html/head/script", "duplication": "id1,JS#1"}
+{"id": "id11,JS#1", "url": "http://testphp.vulnweb.com/login.php", "xpath": "[document]/html/head/script", "duplication": "id1,JS#1"}

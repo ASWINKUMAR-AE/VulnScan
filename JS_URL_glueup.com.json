@@ -1,0 +1,476 @@
+{"id": "(id1,JS#2)", "url": "https://owasp.glueup.com", "xpath": "[document]/html/head/meta/meta/meta/meta/meta/meta/meta/script"}
+{"id": "(id1,JS#3)", "url": "https://owasp.glueup.com", "xpath": "[document]/html/head/meta/meta/meta/meta/meta/meta/meta/script"}
+{"id": "(id1,JS#5)", "url": "https://owasp.glueup.com", "xpath": "[document]/html/body/script"}
+{"id": "(id1,JS#6)", "url": "https://owasp.glueup.com", "xpath": "[document]/html/body/script"}
+{"id": "(id1,JS#12)", "url": "https://owasp.glueup.com", "xpath": "[document]/html/body/script"}
+{"id": "(id1,JS#13)", "url": "https://owasp.glueup.com", "xpath": "[document]/html/body/script"}
+{"id": "(id2,JS#2)", "url": "https://owasp.org", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "(id2,JS#8)", "url": "https://owasp.org", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "(id2,JS#9)", "url": "https://owasp.org", "xpath": "[document]/html/body/header/script"}
+{"id": "(id2,JS#10)", "url": "https://owasp.org", "xpath": "[document]/html/body/header/script"}
+{"id": "(id2,JS#11)", "url": "https://owasp.org", "xpath": "[document]/html/body/header/script"}
+{"id": "(id2,JS#12)", "url": "https://owasp.org", "xpath": "[document]/html/body/main/div/link/link/div/script"}
+{"id": "(id2,JS#13)", "url": "https://owasp.org", "xpath": "[document]/html/body/main/div/link/link/div/script"}
+{"id": "(id2,JS#14)", "url": "https://owasp.org", "xpath": "[document]/html/body/footer/section/script"}
+{"id": "(id3,JS#1)", "url": "https://owasp.org/Top10", "xpath": "[document]/html/head/script"}
+{"id": "(id3,JS#2)", "url": "https://owasp.org/Top10", "xpath": "[document]/html/body/header/nav/script"}
+{"id": "(id3,JS#3)", "url": "https://owasp.org/Top10", "xpath": "[document]/html/body/div/main/div/script"}
+{"id": "(id3,JS#4)", "url": "https://owasp.org/Top10", "xpath": "[document]/html/body/script"}
+{"id": "(id4,JS#1)", "url": "https://owasp.org/Top10/A01_2021-Broken_Access_Control", "xpath": "[document]/html/head/script"}
+{"id": "id4,JS#2", "url": "https://owasp.org/Top10/A01_2021-Broken_Access_Control", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id4,JS#3", "url": "https://owasp.org/Top10/A01_2021-Broken_Access_Control", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "(id4,JS#4)", "url": "https://owasp.org/Top10/A01_2021-Broken_Access_Control", "xpath": "[document]/html/body/script"}
+{"id": "id5,JS#1", "url": "https://owasp.org/Top10/A02_2021-Cryptographic_Failures", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id5,JS#2", "url": "https://owasp.org/Top10/A02_2021-Cryptographic_Failures", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id5,JS#3", "url": "https://owasp.org/Top10/A02_2021-Cryptographic_Failures", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "id5,JS#4", "url": "https://owasp.org/Top10/A02_2021-Cryptographic_Failures", "xpath": "[document]/html/body/script", "duplication": "id4,JS#4"}
+{"id": "id6,JS#1", "url": "https://owasp.org/Top10/A03_2021-Injection", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id6,JS#2", "url": "https://owasp.org/Top10/A03_2021-Injection", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id6,JS#3", "url": "https://owasp.org/Top10/A03_2021-Injection", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "id6,JS#4", "url": "https://owasp.org/Top10/A03_2021-Injection", "xpath": "[document]/html/body/script", "duplication": "id4,JS#4"}
+{"id": "id7,JS#1", "url": "https://owasp.org/Top10/A04_2021-Insecure_Design", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id7,JS#2", "url": "https://owasp.org/Top10/A04_2021-Insecure_Design", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id7,JS#3", "url": "https://owasp.org/Top10/A04_2021-Insecure_Design", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "id7,JS#4", "url": "https://owasp.org/Top10/A04_2021-Insecure_Design", "xpath": "[document]/html/body/script", "duplication": "id4,JS#4"}
+{"id": "id8,JS#1", "url": "https://owasp.org/Top10/A05_2021-Security_Misconfiguration", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id8,JS#2", "url": "https://owasp.org/Top10/A05_2021-Security_Misconfiguration", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id8,JS#3", "url": "https://owasp.org/Top10/A05_2021-Security_Misconfiguration", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "id8,JS#4", "url": "https://owasp.org/Top10/A05_2021-Security_Misconfiguration", "xpath": "[document]/html/body/script", "duplication": "id4,JS#4"}
+{"id": "id9,JS#1", "url": "https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id9,JS#2", "url": "https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id9,JS#3", "url": "https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "id9,JS#4", "url": "https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components", "xpath": "[document]/html/body/script", "duplication": "id4,JS#4"}
+{"id": "id10,JS#1", "url": "https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id10,JS#2", "url": "https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id10,JS#3", "url": "https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "id10,JS#4", "url": "https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures", "xpath": "[document]/html/body/script", "duplication": "id4,JS#4"}
+{"id": "id11,JS#1", "url": "https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id11,JS#2", "url": "https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id11,JS#3", "url": "https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "id11,JS#4", "url": "https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures", "xpath": "[document]/html/body/script", "duplication": "id4,JS#4"}
+{"id": "id12,JS#1", "url": "https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id12,JS#2", "url": "https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id12,JS#3", "url": "https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "id12,JS#4", "url": "https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures", "xpath": "[document]/html/body/script", "duplication": "id4,JS#4"}
+{"id": "id13,JS#1", "url": "https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id13,JS#2", "url": "https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id13,JS#3", "url": "https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "id13,JS#4", "url": "https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29", "xpath": "[document]/html/body/script", "duplication": "id4,JS#4"}
+{"id": "id14,JS#1", "url": "https://owasp.org/Top10/ar", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id14,JS#2", "url": "https://owasp.org/Top10/ar", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id14,JS#3", "url": "https://owasp.org/Top10/ar", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "(id14,JS#4)", "url": "https://owasp.org/Top10/ar", "xpath": "[document]/html/body/script"}
+{"id": "id15,JS#1", "url": "https://owasp.org/Top10/es", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id15,JS#2", "url": "https://owasp.org/Top10/es", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id15,JS#3", "url": "https://owasp.org/Top10/es", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "(id15,JS#4)", "url": "https://owasp.org/Top10/es", "xpath": "[document]/html/body/script"}
+{"id": "id16,JS#1", "url": "https://owasp.org/Top10/fr", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id16,JS#2", "url": "https://owasp.org/Top10/fr", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id16,JS#3", "url": "https://owasp.org/Top10/fr", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "(id16,JS#4)", "url": "https://owasp.org/Top10/fr", "xpath": "[document]/html/body/script"}
+{"id": "id17,JS#1", "url": "https://owasp.org/Top10/id", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id17,JS#2", "url": "https://owasp.org/Top10/id", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id17,JS#3", "url": "https://owasp.org/Top10/id", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "(id17,JS#4)", "url": "https://owasp.org/Top10/id", "xpath": "[document]/html/body/script"}
+{"id": "id18,JS#1", "url": "https://owasp.org/Top10/it", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id18,JS#2", "url": "https://owasp.org/Top10/it", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id18,JS#3", "url": "https://owasp.org/Top10/it", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "(id18,JS#4)", "url": "https://owasp.org/Top10/it", "xpath": "[document]/html/body/script"}
+{"id": "id19,JS#1", "url": "https://owasp.org/Top10/ja", "xpath": "[document]/html/head/script", "duplication": "id4,JS#1"}
+{"id": "id19,JS#2", "url": "https://owasp.org/Top10/ja", "xpath": "[document]/html/body/header/nav/script", "duplication": "id3,JS#2"}
+{"id": "id19,JS#3", "url": "https://owasp.org/Top10/ja", "xpath": "[document]/html/body/div/main/div/script", "duplication": "id3,JS#3"}
+{"id": "(id19,JS#4)", "url": "https://owasp.org/Top10/ja", "xpath": "[document]/html/body/script"}
+{"id": "id20,JS#2", "url": "https://owasp.org/about", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id20,JS#8)", "url": "https://owasp.org/about", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id20,JS#10", "url": "https://owasp.org/about", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id20,JS#11", "url": "https://owasp.org/about", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id20,JS#12", "url": "https://owasp.org/about", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "(id20,JS#14)", "url": "https://owasp.org/about", "xpath": "[document]/html/body/main/div/div/script"}
+{"id": "(id20,JS#15)", "url": "https://owasp.org/about", "xpath": "[document]/html/body/main/div/div/script"}
+{"id": "id20,JS#16", "url": "https://owasp.org/about", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id21,JS#2", "url": "https://owasp.org/blog/2022/05/15/asvs-5.0-roadmap.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id21,JS#9", "url": "https://owasp.org/blog/2022/05/15/asvs-5.0-roadmap.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id21,JS#10", "url": "https://owasp.org/blog/2022/05/15/asvs-5.0-roadmap.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id21,JS#11", "url": "https://owasp.org/blog/2022/05/15/asvs-5.0-roadmap.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id21,JS#12", "url": "https://owasp.org/blog/2022/05/15/asvs-5.0-roadmap.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id21,JS#13", "url": "https://owasp.org/blog/2022/05/15/asvs-5.0-roadmap.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id22,JS#2", "url": "https://owasp.org/blog/2024/02/08/OWASP-joins-NIST-AISIC-launch-announcment_post.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id22,JS#9", "url": "https://owasp.org/blog/2024/02/08/OWASP-joins-NIST-AISIC-launch-announcment_post.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id22,JS#10", "url": "https://owasp.org/blog/2024/02/08/OWASP-joins-NIST-AISIC-launch-announcment_post.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id22,JS#11", "url": "https://owasp.org/blog/2024/02/08/OWASP-joins-NIST-AISIC-launch-announcment_post.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id22,JS#12", "url": "https://owasp.org/blog/2024/02/08/OWASP-joins-NIST-AISIC-launch-announcment_post.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id22,JS#13", "url": "https://owasp.org/blog/2024/02/08/OWASP-joins-NIST-AISIC-launch-announcment_post.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id23,JS#2", "url": "https://owasp.org/blog/2024/02/12/OWASP-appoints-Jason-C-McDonald.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id23,JS#9", "url": "https://owasp.org/blog/2024/02/12/OWASP-appoints-Jason-C-McDonald.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id23,JS#10", "url": "https://owasp.org/blog/2024/02/12/OWASP-appoints-Jason-C-McDonald.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id23,JS#11", "url": "https://owasp.org/blog/2024/02/12/OWASP-appoints-Jason-C-McDonald.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id23,JS#12", "url": "https://owasp.org/blog/2024/02/12/OWASP-appoints-Jason-C-McDonald.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id23,JS#13", "url": "https://owasp.org/blog/2024/02/12/OWASP-appoints-Jason-C-McDonald.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id24,JS#2", "url": "https://owasp.org/blog/2024/03/01/iot-security-testing-guide.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id24,JS#9", "url": "https://owasp.org/blog/2024/03/01/iot-security-testing-guide.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id24,JS#10", "url": "https://owasp.org/blog/2024/03/01/iot-security-testing-guide.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id24,JS#11", "url": "https://owasp.org/blog/2024/03/01/iot-security-testing-guide.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id24,JS#12", "url": "https://owasp.org/blog/2024/03/01/iot-security-testing-guide.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id24,JS#13", "url": "https://owasp.org/blog/2024/03/01/iot-security-testing-guide.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id25,JS#2", "url": "https://owasp.org/blog/2024/03/07/OWASP-CycloneDX-is-ready-to-support-your-CRA-compliance-journey.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id25,JS#9", "url": "https://owasp.org/blog/2024/03/07/OWASP-CycloneDX-is-ready-to-support-your-CRA-compliance-journey.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id25,JS#10", "url": "https://owasp.org/blog/2024/03/07/OWASP-CycloneDX-is-ready-to-support-your-CRA-compliance-journey.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id25,JS#11", "url": "https://owasp.org/blog/2024/03/07/OWASP-CycloneDX-is-ready-to-support-your-CRA-compliance-journey.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id25,JS#12", "url": "https://owasp.org/blog/2024/03/07/OWASP-CycloneDX-is-ready-to-support-your-CRA-compliance-journey.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id25,JS#13", "url": "https://owasp.org/blog/2024/03/07/OWASP-CycloneDX-is-ready-to-support-your-CRA-compliance-journey.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id26,JS#2", "url": "https://owasp.org/blog/2024/03/19/traefik_owasp.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id26,JS#9", "url": "https://owasp.org/blog/2024/03/19/traefik_owasp.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id26,JS#10", "url": "https://owasp.org/blog/2024/03/19/traefik_owasp.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id26,JS#11", "url": "https://owasp.org/blog/2024/03/19/traefik_owasp.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id26,JS#12", "url": "https://owasp.org/blog/2024/03/19/traefik_owasp.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id26,JS#13", "url": "https://owasp.org/blog/2024/03/19/traefik_owasp.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id27,JS#2", "url": "https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id27,JS#9", "url": "https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id27,JS#10", "url": "https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id27,JS#11", "url": "https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id27,JS#12", "url": "https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id27,JS#13", "url": "https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id28,JS#2", "url": "https://owasp.org/blog/2024/04/09/CycloneDX-v1.6-Released.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id28,JS#9", "url": "https://owasp.org/blog/2024/04/09/CycloneDX-v1.6-Released.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id28,JS#10", "url": "https://owasp.org/blog/2024/04/09/CycloneDX-v1.6-Released.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id28,JS#11", "url": "https://owasp.org/blog/2024/04/09/CycloneDX-v1.6-Released.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id28,JS#12", "url": "https://owasp.org/blog/2024/04/09/CycloneDX-v1.6-Released.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id28,JS#13", "url": "https://owasp.org/blog/2024/04/09/CycloneDX-v1.6-Released.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id29,JS#2", "url": "https://owasp.org/blog/2024/04/18/codebashing-member-benefit.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id29,JS#9", "url": "https://owasp.org/blog/2024/04/18/codebashing-member-benefit.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id29,JS#10", "url": "https://owasp.org/blog/2024/04/18/codebashing-member-benefit.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id29,JS#11", "url": "https://owasp.org/blog/2024/04/18/codebashing-member-benefit.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id29,JS#12", "url": "https://owasp.org/blog/2024/04/18/codebashing-member-benefit.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id29,JS#13", "url": "https://owasp.org/blog/2024/04/18/codebashing-member-benefit.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id30,JS#2", "url": "https://owasp.org/blog/2024/04/21/owasp-foundation-20th-anniversary.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id30,JS#9", "url": "https://owasp.org/blog/2024/04/21/owasp-foundation-20th-anniversary.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id30,JS#10", "url": "https://owasp.org/blog/2024/04/21/owasp-foundation-20th-anniversary.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id30,JS#11", "url": "https://owasp.org/blog/2024/04/21/owasp-foundation-20th-anniversary.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id30,JS#13", "url": "https://owasp.org/blog/2024/04/21/owasp-foundation-20th-anniversary.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id30,JS#14", "url": "https://owasp.org/blog/2024/04/21/owasp-foundation-20th-anniversary.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id31,JS#2", "url": "https://owasp.org/blog/2024/04/22/starr-brown-hired-as-director-projects.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id31,JS#9", "url": "https://owasp.org/blog/2024/04/22/starr-brown-hired-as-director-projects.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id31,JS#10", "url": "https://owasp.org/blog/2024/04/22/starr-brown-hired-as-director-projects.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id31,JS#11", "url": "https://owasp.org/blog/2024/04/22/starr-brown-hired-as-director-projects.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id31,JS#13", "url": "https://owasp.org/blog/2024/04/22/starr-brown-hired-as-director-projects.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id31,JS#14", "url": "https://owasp.org/blog/2024/04/22/starr-brown-hired-as-director-projects.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id32,JS#2", "url": "https://owasp.org/blog/2024/05/30/secureflag-threatcanvas-member-benefit.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id32,JS#9", "url": "https://owasp.org/blog/2024/05/30/secureflag-threatcanvas-member-benefit.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id32,JS#10", "url": "https://owasp.org/blog/2024/05/30/secureflag-threatcanvas-member-benefit.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id32,JS#11", "url": "https://owasp.org/blog/2024/05/30/secureflag-threatcanvas-member-benefit.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id32,JS#12", "url": "https://owasp.org/blog/2024/05/30/secureflag-threatcanvas-member-benefit.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id32,JS#13", "url": "https://owasp.org/blog/2024/05/30/secureflag-threatcanvas-member-benefit.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id33,JS#2", "url": "https://owasp.org/blog/2024/07/03/asvs-community-meetup.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id33,JS#9", "url": "https://owasp.org/blog/2024/07/03/asvs-community-meetup.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id33,JS#10", "url": "https://owasp.org/blog/2024/07/03/asvs-community-meetup.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id33,JS#11", "url": "https://owasp.org/blog/2024/07/03/asvs-community-meetup.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id33,JS#13", "url": "https://owasp.org/blog/2024/07/03/asvs-community-meetup.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id33,JS#14", "url": "https://owasp.org/blog/2024/07/03/asvs-community-meetup.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id34,JS#2", "url": "https://owasp.org/blog/2024/07/09/new-coi-and-bylaws.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id34,JS#9", "url": "https://owasp.org/blog/2024/07/09/new-coi-and-bylaws.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id34,JS#10", "url": "https://owasp.org/blog/2024/07/09/new-coi-and-bylaws.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id34,JS#11", "url": "https://owasp.org/blog/2024/07/09/new-coi-and-bylaws.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id34,JS#12", "url": "https://owasp.org/blog/2024/07/09/new-coi-and-bylaws.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id34,JS#13", "url": "https://owasp.org/blog/2024/07/09/new-coi-and-bylaws.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id35,JS#2", "url": "https://owasp.org/blog/2024/08/01/owasp-email-problems.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id35,JS#9", "url": "https://owasp.org/blog/2024/08/01/owasp-email-problems.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id35,JS#10", "url": "https://owasp.org/blog/2024/08/01/owasp-email-problems.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id35,JS#11", "url": "https://owasp.org/blog/2024/08/01/owasp-email-problems.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id35,JS#12", "url": "https://owasp.org/blog/2024/08/01/owasp-email-problems.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id35,JS#13", "url": "https://owasp.org/blog/2024/08/01/owasp-email-problems.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id36,JS#2", "url": "https://owasp.org/blog/2024/10/02/Securing-React-Native-Mobile-Apps-with-OWASP-MAS.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id36,JS#9", "url": "https://owasp.org/blog/2024/10/02/Securing-React-Native-Mobile-Apps-with-OWASP-MAS.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id36,JS#10", "url": "https://owasp.org/blog/2024/10/02/Securing-React-Native-Mobile-Apps-with-OWASP-MAS.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id36,JS#11", "url": "https://owasp.org/blog/2024/10/02/Securing-React-Native-Mobile-Apps-with-OWASP-MAS.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id36,JS#12", "url": "https://owasp.org/blog/2024/10/02/Securing-React-Native-Mobile-Apps-with-OWASP-MAS.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id36,JS#13", "url": "https://owasp.org/blog/2024/10/02/Securing-React-Native-Mobile-Apps-with-OWASP-MAS.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id37,JS#2", "url": "https://owasp.org/blog/2024/10/30/owaspfoundation-org-emails.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id37,JS#9", "url": "https://owasp.org/blog/2024/10/30/owaspfoundation-org-emails.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id37,JS#10", "url": "https://owasp.org/blog/2024/10/30/owaspfoundation-org-emails.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id37,JS#11", "url": "https://owasp.org/blog/2024/10/30/owaspfoundation-org-emails.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id37,JS#13", "url": "https://owasp.org/blog/2024/10/30/owaspfoundation-org-emails.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id37,JS#14", "url": "https://owasp.org/blog/2024/10/30/owaspfoundation-org-emails.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id38,JS#2", "url": "https://owasp.org/blog/2024/11/12/more-than-a-password-day-2024.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id38,JS#9", "url": "https://owasp.org/blog/2024/11/12/more-than-a-password-day-2024.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id38,JS#10", "url": "https://owasp.org/blog/2024/11/12/more-than-a-password-day-2024.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id38,JS#11", "url": "https://owasp.org/blog/2024/11/12/more-than-a-password-day-2024.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id38,JS#12", "url": "https://owasp.org/blog/2024/11/12/more-than-a-password-day-2024.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id38,JS#13", "url": "https://owasp.org/blog/2024/11/12/more-than-a-password-day-2024.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id39,JS#2", "url": "https://owasp.org/blog/2024/11/26/lifecycle-events-are-part-of-the-secure-supply-chain.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id39,JS#9", "url": "https://owasp.org/blog/2024/11/26/lifecycle-events-are-part-of-the-secure-supply-chain.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id39,JS#10", "url": "https://owasp.org/blog/2024/11/26/lifecycle-events-are-part-of-the-secure-supply-chain.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id39,JS#11", "url": "https://owasp.org/blog/2024/11/26/lifecycle-events-are-part-of-the-secure-supply-chain.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id39,JS#12", "url": "https://owasp.org/blog/2024/11/26/lifecycle-events-are-part-of-the-secure-supply-chain.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id39,JS#13", "url": "https://owasp.org/blog/2024/11/26/lifecycle-events-are-part-of-the-secure-supply-chain.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id40,JS#2", "url": "https://owasp.org/blog/2025/01/29/juice-shop-leadership.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id40,JS#9", "url": "https://owasp.org/blog/2025/01/29/juice-shop-leadership.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id40,JS#10", "url": "https://owasp.org/blog/2025/01/29/juice-shop-leadership.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id40,JS#11", "url": "https://owasp.org/blog/2025/01/29/juice-shop-leadership.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id40,JS#13", "url": "https://owasp.org/blog/2025/01/29/juice-shop-leadership.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id40,JS#14", "url": "https://owasp.org/blog/2025/01/29/juice-shop-leadership.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id41,JS#2", "url": "https://owasp.org/blog/2025/02/24/advisory-on-implementation-of-software-bill-of-materials-for-vulnerability-management.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id41,JS#9", "url": "https://owasp.org/blog/2025/02/24/advisory-on-implementation-of-software-bill-of-materials-for-vulnerability-management.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id41,JS#10", "url": "https://owasp.org/blog/2025/02/24/advisory-on-implementation-of-software-bill-of-materials-for-vulnerability-management.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id41,JS#11", "url": "https://owasp.org/blog/2025/02/24/advisory-on-implementation-of-software-bill-of-materials-for-vulnerability-management.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id41,JS#12", "url": "https://owasp.org/blog/2025/02/24/advisory-on-implementation-of-software-bill-of-materials-for-vulnerability-management.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id41,JS#13", "url": "https://owasp.org/blog/2025/02/24/advisory-on-implementation-of-software-bill-of-materials-for-vulnerability-management.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id42,JS#2", "url": "https://owasp.org/blog/2025/03/06/owasp-education-and-training-committee-update.html", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id42,JS#9", "url": "https://owasp.org/blog/2025/03/06/owasp-education-and-training-committee-update.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id42,JS#10", "url": "https://owasp.org/blog/2025/03/06/owasp-education-and-training-committee-update.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id42,JS#11", "url": "https://owasp.org/blog/2025/03/06/owasp-education-and-training-committee-update.html", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id42,JS#12", "url": "https://owasp.org/blog/2025/03/06/owasp-education-and-training-committee-update.html", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id42,JS#13", "url": "https://owasp.org/blog/2025/03/06/owasp-education-and-training-committee-update.html", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id43,JS#2", "url": "https://owasp.org/careers", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id43,JS#8)", "url": "https://owasp.org/careers", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id43,JS#10", "url": "https://owasp.org/careers", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id43,JS#11", "url": "https://owasp.org/careers", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id43,JS#12", "url": "https://owasp.org/careers", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id43,JS#14", "url": "https://owasp.org/careers", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id43,JS#15", "url": "https://owasp.org/careers", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "(id44,JS#1)", "url": "https://owasp.org/cdn-cgi/l/email-protection", "xpath": "[document]/html/head/script"}
+{"id": "(id44,JS#2)", "url": "https://owasp.org/cdn-cgi/l/email-protection", "xpath": "[document]/html/body/div/div/div/script"}
+{"id": "(id44,JS#3)", "url": "https://owasp.org/cdn-cgi/l/email-protection", "xpath": "[document]/html/body/script"}
+{"id": "id45,JS#1", "url": "https://owasp.org/cdn-cgi/l/email-protection#b1d3dbded4c3df9fdad8dcdcd8dfd8d2d9f1dec6d0c2c19fdec3d6", "xpath": "[document]/html/head/script", "duplication": "id44,JS#1"}
+{"id": "id45,JS#2", "url": "https://owasp.org/cdn-cgi/l/email-protection#b1d3dbded4c3df9fdad8dcdcd8dfd8d2d9f1dec6d0c2c19fdec3d6", "xpath": "[document]/html/body/div/div/div/script", "duplication": "id44,JS#2"}
+{"id": "id45,JS#3", "url": "https://owasp.org/cdn-cgi/l/email-protection#b1d3dbded4c3df9fdad8dcdcd8dfd8d2d9f1dec6d0c2c19fdec3d6", "xpath": "[document]/html/body/script", "duplication": "id44,JS#3"}
+{"id": "id46,JS#1", "url": "https://owasp.org/cdn-cgi/l/email-protection#b1dbd0dfdfd8da9fd9deddddd4dfd3d0d2d9f1dec6d0c2c19fdec3d6", "xpath": "[document]/html/head/script", "duplication": "id44,JS#1"}
+{"id": "id46,JS#2", "url": "https://owasp.org/cdn-cgi/l/email-protection#b1dbd0dfdfd8da9fd9deddddd4dfd3d0d2d9f1dec6d0c2c19fdec3d6", "xpath": "[document]/html/body/div/div/div/script", "duplication": "id44,JS#2"}
+{"id": "id46,JS#3", "url": "https://owasp.org/cdn-cgi/l/email-protection#b1dbd0dfdfd8da9fd9deddddd4dfd3d0d2d9f1dec6d0c2c19fdec3d6", "xpath": "[document]/html/body/script", "duplication": "id44,JS#3"}
+{"id": "id47,JS#1", "url": "https://owasp.org/cdn-cgi/l/email-protection#e1838b8e84938fcf8a888c8c888f888289a18e96809291cf8e9386", "xpath": "[document]/html/head/script", "duplication": "id44,JS#1"}
+{"id": "id47,JS#2", "url": "https://owasp.org/cdn-cgi/l/email-protection#e1838b8e84938fcf8a888c8c888f888289a18e96809291cf8e9386", "xpath": "[document]/html/body/div/div/div/script", "duplication": "id44,JS#2"}
+{"id": "id47,JS#3", "url": "https://owasp.org/cdn-cgi/l/email-protection#e1838b8e84938fcf8a888c8c888f888289a18e96809291cf8e9386", "xpath": "[document]/html/body/script", "duplication": "id44,JS#3"}
+{"id": "id48,JS#2", "url": "https://owasp.org/chapters", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id48,JS#8)", "url": "https://owasp.org/chapters", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id48,JS#10", "url": "https://owasp.org/chapters", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id48,JS#11", "url": "https://owasp.org/chapters", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id48,JS#12", "url": "https://owasp.org/chapters", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "(id48,JS#13)", "url": "https://owasp.org/chapters", "xpath": "[document]/html/body/main/div/div/section/script"}
+{"id": "id48,JS#14", "url": "https://owasp.org/chapters", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id48,JS#15", "url": "https://owasp.org/chapters", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id49,JS#2", "url": "https://owasp.org/chapters/leaders", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id49,JS#8)", "url": "https://owasp.org/chapters/leaders", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id49,JS#10", "url": "https://owasp.org/chapters/leaders", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id49,JS#11", "url": "https://owasp.org/chapters/leaders", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id49,JS#12", "url": "https://owasp.org/chapters/leaders", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "(id49,JS#14)", "url": "https://owasp.org/chapters/leaders", "xpath": "[document]/html/body/main/div/div/section/p/script"}
+{"id": "id49,JS#15", "url": "https://owasp.org/chapters/leaders", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id49,JS#16", "url": "https://owasp.org/chapters/leaders", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id50,JS#2", "url": "https://owasp.org/chapters/status", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id50,JS#8)", "url": "https://owasp.org/chapters/status", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id50,JS#10", "url": "https://owasp.org/chapters/status", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id50,JS#11", "url": "https://owasp.org/chapters/status", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id50,JS#12", "url": "https://owasp.org/chapters/status", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id50,JS#13", "url": "https://owasp.org/chapters/status", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id50,JS#14", "url": "https://owasp.org/chapters/status", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id51,JS#2", "url": "https://owasp.org/contact", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id51,JS#8)", "url": "https://owasp.org/contact", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id51,JS#10", "url": "https://owasp.org/contact", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id51,JS#11", "url": "https://owasp.org/contact", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id51,JS#12", "url": "https://owasp.org/contact", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id51,JS#14", "url": "https://owasp.org/contact", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#14"}
+{"id": "id51,JS#15", "url": "https://owasp.org/contact", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id51,JS#16", "url": "https://owasp.org/contact", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id52,JS#2", "url": "https://owasp.org/corporate", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id52,JS#8)", "url": "https://owasp.org/corporate", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id52,JS#10", "url": "https://owasp.org/corporate", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id52,JS#11", "url": "https://owasp.org/corporate", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id52,JS#12", "url": "https://owasp.org/corporate", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id52,JS#13", "url": "https://owasp.org/corporate", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id52,JS#14", "url": "https://owasp.org/corporate", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id53,JS#2", "url": "https://owasp.org/corporate-sponsorships", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id53,JS#8)", "url": "https://owasp.org/corporate-sponsorships", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id53,JS#10", "url": "https://owasp.org/corporate-sponsorships", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id53,JS#11", "url": "https://owasp.org/corporate-sponsorships", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id53,JS#12", "url": "https://owasp.org/corporate-sponsorships", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id53,JS#13", "url": "https://owasp.org/corporate-sponsorships", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id53,JS#14", "url": "https://owasp.org/corporate-sponsorships", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id54,JS#2", "url": "https://owasp.org/donate", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id54,JS#8)", "url": "https://owasp.org/donate", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id54,JS#9", "url": "https://owasp.org/donate", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id54,JS#10", "url": "https://owasp.org/donate", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id54,JS#11", "url": "https://owasp.org/donate", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "(id54,JS#17)", "url": "https://owasp.org/donate", "xpath": "[document]/html/body/main/div/script"}
+{"id": "id54,JS#18", "url": "https://owasp.org/donate", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id55,JS#2", "url": "https://owasp.org/donate/?reponame=www-project-juice-shop&title=OWASP+Juice+Shop", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id55,JS#8", "url": "https://owasp.org/donate/?reponame=www-project-juice-shop&title=OWASP+Juice+Shop", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id54,JS#8"}
+{"id": "id55,JS#9", "url": "https://owasp.org/donate/?reponame=www-project-juice-shop&title=OWASP+Juice+Shop", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id55,JS#10", "url": "https://owasp.org/donate/?reponame=www-project-juice-shop&title=OWASP+Juice+Shop", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id55,JS#11", "url": "https://owasp.org/donate/?reponame=www-project-juice-shop&title=OWASP+Juice+Shop", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id55,JS#17", "url": "https://owasp.org/donate/?reponame=www-project-juice-shop&title=OWASP+Juice+Shop", "xpath": "[document]/html/body/main/div/script", "duplication": "id54,JS#17"}
+{"id": "id55,JS#18", "url": "https://owasp.org/donate/?reponame=www-project-juice-shop&title=OWASP+Juice+Shop", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id56,JS#2", "url": "https://owasp.org/events", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id56,JS#8)", "url": "https://owasp.org/events", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id56,JS#10", "url": "https://owasp.org/events", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id56,JS#11", "url": "https://owasp.org/events", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id56,JS#12", "url": "https://owasp.org/events", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id56,JS#13", "url": "https://owasp.org/events", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id56,JS#14", "url": "https://owasp.org/events", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id57,JS#2", "url": "https://owasp.org/events/speaker_agreement", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id57,JS#8)", "url": "https://owasp.org/events/speaker_agreement", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id57,JS#10", "url": "https://owasp.org/events/speaker_agreement", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id57,JS#11", "url": "https://owasp.org/events/speaker_agreement", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id57,JS#12", "url": "https://owasp.org/events/speaker_agreement", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "(id57,JS#13)", "url": "https://owasp.org/events/speaker_agreement", "xpath": "[document]/html/body/main/div/div/section/script"}
+{"id": "id57,JS#14", "url": "https://owasp.org/events/speaker_agreement", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id57,JS#15", "url": "https://owasp.org/events/speaker_agreement", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id58,JS#2", "url": "https://owasp.org/finance", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id58,JS#8)", "url": "https://owasp.org/finance", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id58,JS#10", "url": "https://owasp.org/finance", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id58,JS#11", "url": "https://owasp.org/finance", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id58,JS#12", "url": "https://owasp.org/finance", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id58,JS#13", "url": "https://owasp.org/finance", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id58,JS#14", "url": "https://owasp.org/finance", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id59,JS#2", "url": "https://owasp.org/governance", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id59,JS#8)", "url": "https://owasp.org/governance", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id59,JS#10", "url": "https://owasp.org/governance", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id59,JS#11", "url": "https://owasp.org/governance", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id59,JS#12", "url": "https://owasp.org/governance", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id59,JS#13", "url": "https://owasp.org/governance", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id59,JS#14", "url": "https://owasp.org/governance", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id60,JS#2", "url": "https://owasp.org/news", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id60,JS#8)", "url": "https://owasp.org/news", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id60,JS#10", "url": "https://owasp.org/news", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id60,JS#11", "url": "https://owasp.org/news", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id60,JS#12", "url": "https://owasp.org/news", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id60,JS#15", "url": "https://owasp.org/news", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id60,JS#16", "url": "https://owasp.org/news", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id61,JS#2", "url": "https://owasp.org/other_projects", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id61,JS#8)", "url": "https://owasp.org/other_projects", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id61,JS#10", "url": "https://owasp.org/other_projects", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id61,JS#11", "url": "https://owasp.org/other_projects", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id61,JS#12", "url": "https://owasp.org/other_projects", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id61,JS#13", "url": "https://owasp.org/other_projects", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id61,JS#14", "url": "https://owasp.org/other_projects", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id62,JS#2", "url": "https://owasp.org/projects", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id62,JS#8)", "url": "https://owasp.org/projects", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id62,JS#10", "url": "https://owasp.org/projects", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id62,JS#11", "url": "https://owasp.org/projects", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id62,JS#12", "url": "https://owasp.org/projects", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "(id62,JS#14)", "url": "https://owasp.org/projects", "xpath": "[document]/html/body/main/div/div/section/script"}
+{"id": "id62,JS#15", "url": "https://owasp.org/projects", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id62,JS#16", "url": "https://owasp.org/projects", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id63,JS#2", "url": "https://owasp.org/projects/#div-flagships", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "id63,JS#8", "url": "https://owasp.org/projects/#div-flagships", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id62,JS#8"}
+{"id": "id63,JS#10", "url": "https://owasp.org/projects/#div-flagships", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id63,JS#11", "url": "https://owasp.org/projects/#div-flagships", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id63,JS#12", "url": "https://owasp.org/projects/#div-flagships", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id63,JS#14", "url": "https://owasp.org/projects/#div-flagships", "xpath": "[document]/html/body/main/div/div/section/script", "duplication": "id62,JS#14"}
+{"id": "id63,JS#15", "url": "https://owasp.org/projects/#div-flagships", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id63,JS#16", "url": "https://owasp.org/projects/#div-flagships", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id64,JS#2", "url": "https://owasp.org/projects/leaders", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id64,JS#8)", "url": "https://owasp.org/projects/leaders", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id64,JS#10", "url": "https://owasp.org/projects/leaders", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id64,JS#11", "url": "https://owasp.org/projects/leaders", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id64,JS#12", "url": "https://owasp.org/projects/leaders", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "(id64,JS#14)", "url": "https://owasp.org/projects/leaders", "xpath": "[document]/html/body/main/div/div/section/p/script"}
+{"id": "id64,JS#15", "url": "https://owasp.org/projects/leaders", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id64,JS#16", "url": "https://owasp.org/projects/leaders", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id65,JS#2", "url": "https://owasp.org/projects/status", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id65,JS#8)", "url": "https://owasp.org/projects/status", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id65,JS#10", "url": "https://owasp.org/projects/status", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id65,JS#11", "url": "https://owasp.org/projects/status", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id65,JS#12", "url": "https://owasp.org/projects/status", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id65,JS#13", "url": "https://owasp.org/projects/status", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id65,JS#14", "url": "https://owasp.org/projects/status", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id66,JS#2", "url": "https://owasp.org/sitemap", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id66,JS#8)", "url": "https://owasp.org/sitemap", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id66,JS#9", "url": "https://owasp.org/sitemap", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id66,JS#10", "url": "https://owasp.org/sitemap", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id66,JS#11", "url": "https://owasp.org/sitemap", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id66,JS#12", "url": "https://owasp.org/sitemap", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id67,JS#2", "url": "https://owasp.org/slack/invite", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id67,JS#8)", "url": "https://owasp.org/slack/invite", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id67,JS#9", "url": "https://owasp.org/slack/invite", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id67,JS#10", "url": "https://owasp.org/slack/invite", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id67,JS#11", "url": "https://owasp.org/slack/invite", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id67,JS#13", "url": "https://owasp.org/slack/invite", "xpath": "[document]/html/body/main/div/script", "duplication": "id20,JS#14"}
+{"id": "id67,JS#14", "url": "https://owasp.org/slack/invite", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "(id68,JS#1)", "url": "https://owasp.org/store", "xpath": "[document]/html/script"}
+{"id": "id69,JS#2", "url": "https://owasp.org/supporters", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id69,JS#8)", "url": "https://owasp.org/supporters", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id69,JS#10", "url": "https://owasp.org/supporters", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id69,JS#11", "url": "https://owasp.org/supporters", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id69,JS#12", "url": "https://owasp.org/supporters", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id69,JS#14", "url": "https://owasp.org/supporters", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id69,JS#15", "url": "https://owasp.org/supporters", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id70,JS#2", "url": "https://owasp.org/supporters/benefits", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id70,JS#8)", "url": "https://owasp.org/supporters/benefits", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "id70,JS#10", "url": "https://owasp.org/supporters/benefits", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#9"}
+{"id": "id70,JS#11", "url": "https://owasp.org/supporters/benefits", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#10"}
+{"id": "id70,JS#12", "url": "https://owasp.org/supporters/benefits", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id70,JS#14", "url": "https://owasp.org/supporters/benefits", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id70,JS#15", "url": "https://owasp.org/supporters/benefits", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id71,JS#2", "url": "https://owasp.org/www-board", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id71,JS#8)", "url": "https://owasp.org/www-board", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "(id71,JS#10)", "url": "https://owasp.org/www-board", "xpath": "[document]/html/body/header/script"}
+{"id": "(id71,JS#11)", "url": "https://owasp.org/www-board", "xpath": "[document]/html/body/header/script"}
+{"id": "id71,JS#12", "url": "https://owasp.org/www-board", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "(id71,JS#13)", "url": "https://owasp.org/www-board", "xpath": "[document]/html/body/main/div/script"}
+{"id": "id71,JS#15", "url": "https://owasp.org/www-board", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id71,JS#16", "url": "https://owasp.org/www-board", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id72,JS#2", "url": "https://owasp.org/www-chapter-aarhus", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id72,JS#8)", "url": "https://owasp.org/www-chapter-aarhus", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "(id72,JS#10)", "url": "https://owasp.org/www-chapter-aarhus", "xpath": "[document]/html/body/header/script"}
+{"id": "(id72,JS#11)", "url": "https://owasp.org/www-chapter-aarhus", "xpath": "[document]/html/body/header/script"}
+{"id": "id72,JS#12", "url": "https://owasp.org/www-chapter-aarhus", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id72,JS#13", "url": "https://owasp.org/www-chapter-aarhus", "xpath": "[document]/html/body/main/div/script", "duplication": "id71,JS#13"}
+{"id": "(id72,JS#14)", "url": "https://owasp.org/www-chapter-aarhus", "xpath": "[document]/html/body/main/div/div/section/script"}
+{"id": "id72,JS#16", "url": "https://owasp.org/www-chapter-aarhus", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id72,JS#17", "url": "https://owasp.org/www-chapter-aarhus", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id73,JS#2", "url": "https://owasp.org/www-chapter-adana", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id73,JS#8)", "url": "https://owasp.org/www-chapter-adana", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "(id73,JS#10)", "url": "https://owasp.org/www-chapter-adana", "xpath": "[document]/html/body/header/script"}
+{"id": "(id73,JS#11)", "url": "https://owasp.org/www-chapter-adana", "xpath": "[document]/html/body/header/script"}
+{"id": "id73,JS#12", "url": "https://owasp.org/www-chapter-adana", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id73,JS#13", "url": "https://owasp.org/www-chapter-adana", "xpath": "[document]/html/body/main/div/script", "duplication": "id71,JS#13"}
+{"id": "(id73,JS#14)", "url": "https://owasp.org/www-chapter-adana", "xpath": "[document]/html/body/main/div/div/section/script"}
+{"id": "id73,JS#16", "url": "https://owasp.org/www-chapter-adana", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id73,JS#17", "url": "https://owasp.org/www-chapter-adana", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id74,JS#2", "url": "https://owasp.org/www-chapter-aguascalientes", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id74,JS#8)", "url": "https://owasp.org/www-chapter-aguascalientes", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "(id74,JS#10)", "url": "https://owasp.org/www-chapter-aguascalientes", "xpath": "[document]/html/body/header/script"}
+{"id": "(id74,JS#11)", "url": "https://owasp.org/www-chapter-aguascalientes", "xpath": "[document]/html/body/header/script"}
+{"id": "id74,JS#12", "url": "https://owasp.org/www-chapter-aguascalientes", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id74,JS#14", "url": "https://owasp.org/www-chapter-aguascalientes", "xpath": "[document]/html/body/main/div/div/section/script", "duplication": "id73,JS#14"}
+{"id": "id74,JS#16", "url": "https://owasp.org/www-chapter-aguascalientes", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id74,JS#17", "url": "https://owasp.org/www-chapter-aguascalientes", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id75,JS#2", "url": "https://owasp.org/www-chapter-ahmedabad", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id75,JS#8)", "url": "https://owasp.org/www-chapter-ahmedabad", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "(id75,JS#10)", "url": "https://owasp.org/www-chapter-ahmedabad", "xpath": "[document]/html/body/header/script"}
+{"id": "(id75,JS#11)", "url": "https://owasp.org/www-chapter-ahmedabad", "xpath": "[document]/html/body/header/script"}
+{"id": "id75,JS#12", "url": "https://owasp.org/www-chapter-ahmedabad", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id75,JS#14", "url": "https://owasp.org/www-chapter-ahmedabad", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id75,JS#15", "url": "https://owasp.org/www-chapter-ahmedabad", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id76,JS#2", "url": "https://owasp.org/www-chapter-albuquerque", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id76,JS#8)", "url": "https://owasp.org/www-chapter-albuquerque", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "(id76,JS#10)", "url": "https://owasp.org/www-chapter-albuquerque", "xpath": "[document]/html/body/header/script"}
+{"id": "(id76,JS#11)", "url": "https://owasp.org/www-chapter-albuquerque", "xpath": "[document]/html/body/header/script"}
+{"id": "id76,JS#12", "url": "https://owasp.org/www-chapter-albuquerque", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id76,JS#13", "url": "https://owasp.org/www-chapter-albuquerque", "xpath": "[document]/html/body/main/div/script", "duplication": "id71,JS#13"}
+{"id": "id76,JS#15", "url": "https://owasp.org/www-chapter-albuquerque", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id76,JS#16", "url": "https://owasp.org/www-chapter-albuquerque", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id77,JS#2", "url": "https://owasp.org/www-chapter-algiers", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id77,JS#8)", "url": "https://owasp.org/www-chapter-algiers", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "(id77,JS#10)", "url": "https://owasp.org/www-chapter-algiers", "xpath": "[document]/html/body/header/script"}
+{"id": "(id77,JS#11)", "url": "https://owasp.org/www-chapter-algiers", "xpath": "[document]/html/body/header/script"}
+{"id": "id77,JS#12", "url": "https://owasp.org/www-chapter-algiers", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id77,JS#13", "url": "https://owasp.org/www-chapter-algiers", "xpath": "[document]/html/body/main/div/script", "duplication": "id71,JS#13"}
+{"id": "id77,JS#16", "url": "https://owasp.org/www-chapter-algiers", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id77,JS#17", "url": "https://owasp.org/www-chapter-algiers", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id78,JS#2", "url": "https://owasp.org/www-chapter-amman", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id78,JS#8)", "url": "https://owasp.org/www-chapter-amman", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "(id78,JS#10)", "url": "https://owasp.org/www-chapter-amman", "xpath": "[document]/html/body/header/script"}
+{"id": "(id78,JS#11)", "url": "https://owasp.org/www-chapter-amman", "xpath": "[document]/html/body/header/script"}
+{"id": "id78,JS#12", "url": "https://owasp.org/www-chapter-amman", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id78,JS#13", "url": "https://owasp.org/www-chapter-amman", "xpath": "[document]/html/body/main/div/script", "duplication": "id71,JS#13"}
+{"id": "(id78,JS#15)", "url": "https://owasp.org/www-chapter-amman", "xpath": "[document]/html/body/main/div/div/section/script"}
+{"id": "id78,JS#17", "url": "https://owasp.org/www-chapter-amman", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id78,JS#18", "url": "https://owasp.org/www-chapter-amman", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}
+{"id": "id79,JS#2", "url": "https://owasp.org/www-chapter-ankara", "xpath": "[document]/html/head/meta/meta/script", "duplication": "id2,JS#2"}
+{"id": "(id79,JS#8)", "url": "https://owasp.org/www-chapter-ankara", "xpath": "[document]/html/head/meta/meta/script"}
+{"id": "(id79,JS#10)", "url": "https://owasp.org/www-chapter-ankara", "xpath": "[document]/html/body/header/script"}
+{"id": "(id79,JS#11)", "url": "https://owasp.org/www-chapter-ankara", "xpath": "[document]/html/body/header/script"}
+{"id": "id79,JS#12", "url": "https://owasp.org/www-chapter-ankara", "xpath": "[document]/html/body/header/script", "duplication": "id2,JS#11"}
+{"id": "id79,JS#13", "url": "https://owasp.org/www-chapter-ankara", "xpath": "[document]/html/body/main/div/script", "duplication": "id71,JS#13"}
+{"id": "id79,JS#15", "url": "https://owasp.org/www-chapter-ankara", "xpath": "[document]/html/body/main/div/div/script", "duplication": "id20,JS#15"}
+{"id": "id79,JS#16", "url": "https://owasp.org/www-chapter-ankara", "xpath": "[document]/html/body/footer/section/script", "duplication": "id2,JS#14"}

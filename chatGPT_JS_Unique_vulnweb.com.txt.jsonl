@@ -1,0 +1,8 @@
+{
+"id": "(id2,JS#1)",
+"result": "Vulnerable",
+"type": "XSS",
+"severity": "HIGH",
+"explain": "Unescaped XML data is inserted into innerHTML, allowing potential XSS if XML contains malicious content.",
+"remediation": "Sanitize or escape all dynamic content before inserting into innerHTML."
+}

@@ -1,0 +1,18 @@
+{"id": "(id1,JS#3)", "url": "https://www.dvwa.co.uk", "xpath": "[document]/html/head/script"}
+{"id": "(id1,JS#4)", "url": "https://www.dvwa.co.uk", "xpath": "[document]/html/head/script"}
+{"id": "(id1,JS#7)", "url": "https://www.dvwa.co.uk", "xpath": "[document]/html/body/script"}
+{"id": "(id1,JS#8)", "url": "https://www.dvwa.co.uk", "xpath": "[document]/html/body/script"}
+{"id": "id2,JS#3", "url": "https://www.dvwa.co.uk/about-us", "xpath": "[document]/html/head/script", "duplication": "id1,JS#3"}
+{"id": "(id2,JS#4)", "url": "https://www.dvwa.co.uk/about-us", "xpath": "[document]/html/head/script"}
+{"id": "id2,JS#7", "url": "https://www.dvwa.co.uk/about-us", "xpath": "[document]/html/body/script", "duplication": "id1,JS#7"}
+{"id": "id2,JS#8", "url": "https://www.dvwa.co.uk/about-us", "xpath": "[document]/html/body/script", "duplication": "id1,JS#8"}
+{"id": "id4,JS#3", "url": "https://www.dvwa.co.uk/contact", "xpath": "[document]/html/head/script", "duplication": "id1,JS#3"}
+{"id": "id4,JS#4", "url": "https://www.dvwa.co.uk/contact", "xpath": "[document]/html/head/script", "duplication": "id1,JS#4"}
+{"id": "(id4,JS#6)", "url": "https://www.dvwa.co.uk/contact", "xpath": "[document]/html/body/div/div/div/form/div/script"}
+{"id": "id4,JS#9", "url": "https://www.dvwa.co.uk/contact", "xpath": "[document]/html/body/script", "duplication": "id1,JS#7"}
+{"id": "id4,JS#10", "url": "https://www.dvwa.co.uk/contact", "xpath": "[document]/html/body/script", "duplication": "id1,JS#8"}
+{"id": "(id4,JS#20)", "url": "https://www.dvwa.co.uk/contact", "xpath": "[document]/html/body/script"}
+{"id": "id5,JS#3", "url": "https://www.dvwa.co.uk/en-gb", "xpath": "[document]/html/head/script", "duplication": "id1,JS#3"}
+{"id": "id5,JS#4", "url": "https://www.dvwa.co.uk/en-gb", "xpath": "[document]/html/head/script", "duplication": "id2,JS#4"}
+{"id": "id5,JS#7", "url": "https://www.dvwa.co.uk/en-gb", "xpath": "[document]/html/body/script", "duplication": "id1,JS#7"}
+{"id": "id5,JS#8", "url": "https://www.dvwa.co.uk/en-gb", "xpath": "[document]/html/body/script", "duplication": "id1,JS#8"}

@@ -1,0 +1,54 @@
+# API Keys & Secrets
+API_Key.txt
+api*.txt
+*.key
+*.env
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE & Tooling
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.qodo/
+
+# Scan Logs & Generated Artifacts
+# (Uncomment below if you don't want generated scan results tracked in git)
+# final_*.txt
+# chatGPT_*.jsonl
+# JS_URL_*.json
+# JS_Unique_*.txt
+# semgrep_results.json
